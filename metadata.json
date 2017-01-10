@@ -1,6 +1,6 @@
 {
   "name": "simonpholmes-apache",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "simonpholmes",
   "summary": "training module to install apache",
   "license": "Apache 2.0",
@@ -11,4 +11,3 @@
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
 }
-
